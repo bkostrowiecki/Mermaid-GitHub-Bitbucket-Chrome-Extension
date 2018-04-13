@@ -1,0 +1,13 @@
+{
+  "name": "mermeid-github-extension",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bartosz Kostrowiecki <bartosz.kostrowiecki@epicode.net>",
+  "license": "RESTRICTED",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}
