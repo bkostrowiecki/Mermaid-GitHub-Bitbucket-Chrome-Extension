@@ -11,8 +11,7 @@
   },
   "default_locale": "en",
   "permissions": [
-    "contentSettings",
-    "https://bitbucket.org"
+    "contentSettings"
   ],
   "content_scripts": [
     {
